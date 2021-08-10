@@ -112,12 +112,11 @@ margin: 0 auto;
    padding: 9rem 0rem 0.7rem 0rem;
 	
 	
-   background-image: linear-gradient(to top, rgba(235,110,128,1),  
-   rgba(248,248,255,1.0));
+   background-image: linear-gradient(to top, rgba(248,248,255,1.0), rgba(235,110,128,1)), url('images/old-mac.jpg');
 	
    /*background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
    rgba(0,143,149,0.8)), url('images/old-mac.jpg');*/
-    background-size: 10%;
+    
     
    
 
