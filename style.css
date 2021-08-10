@@ -112,13 +112,14 @@ margin: 0 auto;
    padding: 9rem 0rem 0.7rem 0rem;
 	
 	
-   background-image: linear-gradient(to top, rgba(248,248,255,1.0), rgba(235,110,128,1)), url('images/old-mac.jpg');
+   background-image: linear-gradient(to top, rgba(248,248,255,0.99), 
+   rgba(0,143,149,0.55)), url("images/keyboard.jpg");
 	
    /*background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
    rgba(0,143,149,0.8)), url('images/old-mac.jpg');*/
     
-    
-   
+  
+   background-size: 100%;
 
 }
 
@@ -126,12 +127,13 @@ margin: 0 auto;
    
    color: #111001;
    padding: 0 0 3rem 0;
-	-webkit-padding: 0 0 3rem 0;
+	
    background-image: linear-gradient(to top, rgba(235,110,128,1),  
    rgba(248,248,255,1.0));
 
  
 }
+
 .subtitle-text {
     text-align: center;
     font-size: 1.1rem;
