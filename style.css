@@ -112,14 +112,8 @@ margin: 0 auto;
    padding: 9rem 0rem 0.7rem 0rem;
 	
 	
-	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f8f8ff+0,008f95+100&1+0,0.8+100 */
-background: -moz-linear-gradient(top,  rgba(248,248,255,1) 0%, rgba(0,143,149,0.8) 100%), 
-url("images/old-mac.jpg"); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  rgba(248,248,255,1) 0%,rgba(0,143,149,0.8) 100%)
-, url("images/old-mac.jpg"); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to top,  rgba(248,248,255,1) 0%,rgba(0,143,149,0.8) 100%)
-, url("images/old-mac.jpg"); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8ff', endColorstr='#cc008f95',GradientType=0 ); /* IE6-9 */
+   background-image: linear-gradient(to top, rgba(235,110,128,1),  
+   rgba(248,248,255,1.0));
 	
    /*background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
    rgba(0,143,149,0.8)), url('images/old-mac.jpg');*/
