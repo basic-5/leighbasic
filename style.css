@@ -19,6 +19,7 @@ appearance: none;
 
 body {
     
+
     font-family: 'Anonymous Pro', monospace;
     background-color: #f8f8ff;
     /*color: #008F95;*/
@@ -40,13 +41,13 @@ body {
 
 .title-font-med {
     font-family: 'Londrina Solid', cursive;
-    font-size: 3rem;;
+    font-size: 3rem;
 }
 
 
 .title-font-sml {
     font-family: 'Londrina Solid', cursive;
-    font-size: 2rem;;
+    font-size: 2rem;
 }
 .body-font {
     font-family: 'Anonymous Pro', monospace;
@@ -109,10 +110,9 @@ margin: 0 auto;
    
    font-family: 'Londrina Solid', cursive;
    padding: 9rem 0rem 0.7rem 0rem;
-
-	-webkit-appearance: none;
 	
-	
+	-webkit-background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
+   rgba(0,143,149,0.8));
    background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
    rgba(0,143,149,0.8)), url('images/old-mac.jpg');
     background-size: 10%;
@@ -125,6 +125,7 @@ margin: 0 auto;
    
    color: #111001;
    padding: 0 0 3rem 0;
+	-webkit-padding: 0 0 3rem 0;
    background-image: linear-gradient(to top, rgba(235,110,128,1),  
    rgba(248,248,255,1.0));
 
