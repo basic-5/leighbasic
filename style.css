@@ -113,9 +113,9 @@ margin: 0 auto;
 	
 	
    background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
-   rgba(0,143,149,0.8));
+   rgba(0,143,149,0.8)), url('images/old-mac.jpg');
     background-size: 10%;
-    background-repeat: repeat;
+    
    
 
 }
