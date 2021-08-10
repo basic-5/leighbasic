@@ -110,10 +110,8 @@ margin: 0 auto;
    font-family: 'Londrina Solid', cursive;
    padding: 9rem 0rem 0.7rem 0rem;
 
+	-webkit-appearance: none;
 	
-	
-	-webkit-background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
-  rgba(0,143,149,0.8)), url('images/old-mac.jpg');
 	
    background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
    rgba(0,143,149,0.8)), url('images/old-mac.jpg');
