@@ -35,7 +35,7 @@ body {
 }
 .title-font-lrg {
     font-family: 'Londrina Solid', cursive;
-    font-size: 4rem;;
+    font-size: 4rem;
 }
 
 
@@ -111,10 +111,9 @@ margin: 0 auto;
    font-family: 'Londrina Solid', cursive;
    padding: 9rem 0rem 0.7rem 0rem;
 	
-	-webkit-background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
-   rgba(0,143,149,0.8));
+	
    background-image: linear-gradient(to top, rgba(248,248,255,1.0), 
-   rgba(0,143,149,0.8)), url('images/old-mac.jpg');
+   rgba(0,143,149,0.8));
     background-size: 10%;
     background-repeat: repeat;
    
